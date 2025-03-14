@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict/>
+		<dict>
+			<key>CFBundleTypeName</key>
+			<string></string>
+			<key>LSHandlerRank</key>
+			<string>Default</string>
+		</dict>
+	</array>
+	<key>NSCameraUsageDescription</key>
+	<string>This app needs access to your camera to scan rooms in 3D</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This app needs to use your location for AR tracking</string>
+	<key>NSMotionUsageDescription</key>
+	<string>This app uses motion data to track device movement and create 3D models</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+		<string>arkit</string>
+	</array>
+</dict>
+</plist>

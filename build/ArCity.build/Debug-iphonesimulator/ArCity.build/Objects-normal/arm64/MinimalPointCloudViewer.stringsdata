@@ -1,0 +1,136 @@
+{
+  "source": "/Users/vladikasik/Documents/programming/mobile/ArCity/ArCity/Views/MinimalPointCloudViewer.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "View Mode",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 56
+        }
+      },
+      {
+        "comment": "",
+        "key": "Change",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 45
+        }
+      },
+      {
+        "comment": "",
+        "key": "3D Model",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 57
+        }
+      },
+      {
+        "comment": "",
+        "key": "AR Walk",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 58
+        }
+      },
+      {
+        "comment": "",
+        "key": "No room model loaded",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 71
+        }
+      },
+      {
+        "comment": "",
+        "key": "Load a model",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 76
+        }
+      },
+      {
+        "comment": "",
+        "key": "Debug Options",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 89
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pinch to zoom, drag to rotate",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 113
+        }
+      },
+      {
+        "comment": "",
+        "key": "Walk around to explore the room",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 119
+        }
+      },
+      {
+        "comment": "",
+        "key": "Debug Options",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 140
+        }
+      },
+      {
+        "comment": "",
+        "key": "Choose a debug action",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 141
+        }
+      },
+      {
+        "comment": "",
+        "key": "Create Test Model",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 143
+        }
+      },
+      {
+        "comment": "",
+        "key": "List Available Models",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 146
+        }
+      },
+      {
+        "comment": "",
+        "key": "Print Debug Info",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 149
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your Room Models",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 299
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld points",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 285
+        }
+      }
+    ]
+  },
+  "version": 1
+}

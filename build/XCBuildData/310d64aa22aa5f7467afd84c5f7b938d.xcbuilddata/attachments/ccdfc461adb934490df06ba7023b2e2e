@@ -1,0 +1,98 @@
+{
+  "" : {
+    "diagnostics" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/ArCity-master.dia",
+    "emit-module-dependencies" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/ArCity-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/ArCity-master-emit-module.dia",
+    "swift-dependencies" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/ArCity-master.swiftdeps"
+  },
+  "/Users/vladikasik/Documents/programming/mobile/ArCity/ArCity/AppDelegate.swift" : {
+    "const-values" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/vladikasik/Documents/programming/mobile/ArCity/ArCity/ContentView.swift" : {
+    "const-values" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/vladikasik/Documents/programming/mobile/ArCity/ArCity/Models/PointCloudModel.swift" : {
+    "const-values" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/PointCloudModel.swiftconstvalues",
+    "dependencies" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/PointCloudModel.d",
+    "diagnostics" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/PointCloudModel.dia",
+    "index-unit-output-path" : "/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/PointCloudModel.o",
+    "llvm-bc" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/PointCloudModel.bc",
+    "object" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/PointCloudModel.o",
+    "swift-dependencies" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/PointCloudModel.swiftdeps",
+    "swiftmodule" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/PointCloudModel~partial.swiftmodule"
+  },
+  "/Users/vladikasik/Documents/programming/mobile/ArCity/ArCity/Views/MainView.swift" : {
+    "const-values" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/MainView.swiftconstvalues",
+    "dependencies" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/MainView.d",
+    "diagnostics" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/MainView.dia",
+    "index-unit-output-path" : "/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/MainView.o",
+    "llvm-bc" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/MainView.bc",
+    "object" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/MainView.o",
+    "swift-dependencies" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/MainView.swiftdeps",
+    "swiftmodule" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/MainView~partial.swiftmodule"
+  },
+  "/Users/vladikasik/Documents/programming/mobile/ArCity/ArCity/Views/MinimalPointCloudViewer.swift" : {
+    "const-values" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/MinimalPointCloudViewer.swiftconstvalues",
+    "dependencies" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/MinimalPointCloudViewer.d",
+    "diagnostics" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/MinimalPointCloudViewer.dia",
+    "index-unit-output-path" : "/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/MinimalPointCloudViewer.o",
+    "llvm-bc" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/MinimalPointCloudViewer.bc",
+    "object" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/MinimalPointCloudViewer.o",
+    "swift-dependencies" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/MinimalPointCloudViewer.swiftdeps",
+    "swiftmodule" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/MinimalPointCloudViewer~partial.swiftmodule"
+  },
+  "/Users/vladikasik/Documents/programming/mobile/ArCity/ArCity/Views/MinimalScannerView.swift" : {
+    "const-values" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/MinimalScannerView.swiftconstvalues",
+    "dependencies" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/MinimalScannerView.d",
+    "diagnostics" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/MinimalScannerView.dia",
+    "index-unit-output-path" : "/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/MinimalScannerView.o",
+    "llvm-bc" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/MinimalScannerView.bc",
+    "object" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/MinimalScannerView.o",
+    "swift-dependencies" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/MinimalScannerView.swiftdeps",
+    "swiftmodule" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/MinimalScannerView~partial.swiftmodule"
+  },
+  "/Users/vladikasik/Documents/programming/mobile/ArCity/ArCity/Views/PointCloudViewer.swift" : {
+    "const-values" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/PointCloudViewer.swiftconstvalues",
+    "dependencies" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/PointCloudViewer.d",
+    "diagnostics" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/PointCloudViewer.dia",
+    "index-unit-output-path" : "/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/PointCloudViewer.o",
+    "llvm-bc" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/PointCloudViewer.bc",
+    "object" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/PointCloudViewer.o",
+    "swift-dependencies" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/PointCloudViewer.swiftdeps",
+    "swiftmodule" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/PointCloudViewer~partial.swiftmodule"
+  },
+  "/Users/vladikasik/Documents/programming/mobile/ArCity/ArCity/Views/ScannerView.swift" : {
+    "const-values" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/ScannerView.swiftconstvalues",
+    "dependencies" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/ScannerView.d",
+    "diagnostics" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/ScannerView.dia",
+    "index-unit-output-path" : "/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/ScannerView.o",
+    "llvm-bc" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/ScannerView.bc",
+    "object" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/ScannerView.o",
+    "swift-dependencies" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/ScannerView.swiftdeps",
+    "swiftmodule" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/ScannerView~partial.swiftmodule"
+  },
+  "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/vladikasik/Documents/programming/mobile/ArCity/build/ArCity.build/Debug-iphonesimulator/ArCity.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

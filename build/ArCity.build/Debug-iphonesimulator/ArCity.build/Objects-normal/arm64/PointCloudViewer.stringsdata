@@ -1,0 +1,104 @@
+{
+  "source": "/Users/vladikasik/Documents/programming/mobile/ArCity/ArCity/Views/PointCloudViewer.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "No scan loaded",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 57
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld points",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 46
+        }
+      },
+      {
+        "comment": "",
+        "key": "View Mode",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 72
+        }
+      },
+      {
+        "comment": "",
+        "key": "Motion",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 73
+        }
+      },
+      {
+        "comment": "",
+        "key": "AR",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 74
+        }
+      },
+      {
+        "comment": "",
+        "key": "Load Scan",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 86
+        }
+      },
+      {
+        "comment": "",
+        "key": "Error",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 107
+        }
+      },
+      {
+        "comment": "",
+        "key": "OK",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 109
+        }
+      },
+      {
+        "comment": "",
+        "key": "Available Scans",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 391
+        }
+      },
+      {
+        "comment": "",
+        "key": "Loading scans...",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 355
+        }
+      },
+      {
+        "comment": "",
+        "key": "No saved scans found",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 362
+        }
+      },
+      {
+        "comment": "",
+        "key": "Create a scan first using the Scanner tab",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 365
+        }
+      }
+    ]
+  },
+  "version": 1
+}

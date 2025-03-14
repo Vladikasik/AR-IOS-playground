@@ -6,33 +6,49 @@
 //
 
 import SwiftUI
-import RealityKit
 
-struct ContentView : View {
-
+struct ContentView: View {
+    @State private var activeView: ActiveView = .scanner
+    
+    enum ActiveView {
+        case scanner, viewer
+    }
+    
     var body: some View {
-        RealityView { content in
-
-            // Create a cube model
-            let model = Entity()
-            let mesh = MeshResource.generateBox(size: 0.1, cornerRadius: 0.005)
-            let material = SimpleMaterial(color: .gray, roughness: 0.15, isMetallic: true)
-            model.components.set(ModelComponent(mesh: mesh, materials: [material]))
-            model.position = [0, 0.05, 0]
-
-            // Create horizontal plane anchor for the content
-            let anchor = AnchorEntity(.plane(.horizontal, classification: .any, minimumBounds: SIMD2<Float>(0.2, 0.2)))
-            anchor.addChild(model)
-
-            // Add the horizontal plane anchor to the scene
-            content.add(anchor)
-
-            content.camera = .spatialTracking
-
+        ZStack {
+            switch activeView {
+            case .scanner:
+                MinimalScannerView()
+            case .viewer:
+                MinimalPointCloudViewer()
+            }
+            
+            // Minimalistic toggle button at the bottom
+            VStack {
+                Spacer()
+                
+                Button(action: {
+                    withAnimation {
+                        activeView = activeView == .scanner ? .viewer : .scanner
+                    }
+                }) {
+                    HStack(spacing: 12) {
+                        Image(systemName: activeView == .scanner ? "eye" : "camera")
+                            .font(.system(size: 22))
+                        Text(activeView == .scanner ? "View Model" : "Scan Room")
+                            .font(.headline)
+                    }
+                    .foregroundColor(.white)
+                    .padding(.horizontal, 20)
+                    .padding(.vertical, 12)
+                    .background(Color.black.opacity(0.8))
+                    .cornerRadius(30)
+                }
+                .padding(.bottom, 30)
+            }
         }
         .edgesIgnoringSafeArea(.all)
     }
-
 }
 
 #Preview {

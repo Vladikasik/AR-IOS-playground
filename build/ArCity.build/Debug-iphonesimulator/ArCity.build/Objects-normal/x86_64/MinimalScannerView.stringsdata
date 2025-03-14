@@ -1,0 +1,112 @@
+{
+  "source": "/Users/vladikasik/Documents/programming/mobile/ArCity/ArCity/Views/MinimalScannerView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Save Your Room Scan",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 152
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld points",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 41
+        }
+      },
+      {
+        "comment": "",
+        "key": "Memory: %@",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 55
+        }
+      },
+      {
+        "comment": "",
+        "key": "Move around to scan your room",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 77
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reset",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 103
+        }
+      },
+      {
+        "comment": "",
+        "key": "Stop Scan",
+        "location": {
+          "startingColumn": 52,
+          "startingLine": 125
+        }
+      },
+      {
+        "comment": "",
+        "key": "Start Scan",
+        "location": {
+          "startingColumn": 66,
+          "startingLine": 125
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 139
+        }
+      },
+      {
+        "comment": "",
+        "key": "Room Name",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 153
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 156
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 160
+        }
+      },
+      {
+        "comment": "",
+        "key": "Give your 3D room model a name",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 168
+        }
+      },
+      {
+        "comment": "",
+        "key": "Scan Coverage",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 194
+        }
+      }
+    ]
+  },
+  "version": 1
+}

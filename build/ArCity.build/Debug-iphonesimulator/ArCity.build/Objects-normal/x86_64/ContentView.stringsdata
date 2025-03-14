@@ -1,0 +1,24 @@
+{
+  "source": "/Users/vladikasik/Documents/programming/mobile/ArCity/ArCity/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "View Model",
+        "location": {
+          "startingColumn": 55,
+          "startingLine": 38
+        }
+      },
+      {
+        "comment": "",
+        "key": "Scan Room",
+        "location": {
+          "startingColumn": 70,
+          "startingLine": 38
+        }
+      }
+    ]
+  },
+  "version": 1
+}

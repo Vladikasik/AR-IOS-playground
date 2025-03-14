@@ -1,0 +1,11 @@
+<key>NSCameraUsageDescription</key>
+<string>This app needs camera access to scan 3D objects and create point clouds using ARKit.</string>
+
+<key>NSMotionUsageDescription</key>
+<string>This app uses motion data to track device movement and display point clouds.</string>
+
+<key>UIRequiredDeviceCapabilities</key>
+<array>
+    <string>armv7</string>
+    <string>arkit</string>
+</array> 
