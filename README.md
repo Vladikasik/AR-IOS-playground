@@ -62,4 +62,4 @@ ArCity embraces minimalism in both functionality and interface:
 ArCity respects your privacy:
 - No data is sent to external servers
 - All scans are stored locally on your device
-- Only required permissions are requested (camera, motion, location for AR) 
+- Only required permissions are requested (camera, motion, location for AR)
